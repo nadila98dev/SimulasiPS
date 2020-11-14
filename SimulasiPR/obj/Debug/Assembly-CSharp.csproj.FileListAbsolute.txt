@@ -1,2 +1,0 @@
-D:\Documents\SimulasiPR\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-D:\Documents\SimulasiPR\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
